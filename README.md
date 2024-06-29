@@ -10,9 +10,7 @@ New and old binary versions of hammergarden will be under the [releases section]
 
 Learn how you can [contribute](https://github.com/daeshondjones/hammergarden/wiki/contribute) to the hammergarden project.
 
-hammergarden is designed to assist offensive security professionals, teams and enthusiasts with auditing web, software, hardware and smart-contract applications. hammergarden aims to streamline the computer network exploitation lifecycle. At the core, hammergarden is an offensive security resource management system providing an integrated and continuously updated view of the standard offensive security core business practices.
+hammergarden is a multi-domain computer network operations resource management solution providing an in-depth real-time view of the standard offensive security core business practices.
 
 ### Disclaimer
-hammergarden is a publicly available piece of software, however, hammergarden (as a whole product) and all project hammergarden graphics are protected under the intellectual property laws of the United States of America and remains the sole intellectual property of Daeshon Jones.
-
-hammergarden is a proprietary software product available for public, commercial and private purchase and use. This repository does not and will not contain any source code. This repository only contains the binary releases of the hammergarden project.
+hammergarden is a proprietary software solution accessible for public, private and commercial use. hammergarden (as a whole product) and all project hammergarden graphics, phrases and all other project hammergarden materials are protected under the intellectual property laws of the United States of America and remains the sole intellectual property of Daeshon Jones.
